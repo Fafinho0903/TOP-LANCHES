@@ -1,0 +1,17 @@
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\bin\Debug\net7.0-windows\TOP LANCHESSSSS.exe
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\bin\Debug\net7.0-windows\TOP LANCHESSSSS.deps.json
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\bin\Debug\net7.0-windows\TOP LANCHESSSSS.runtimeconfig.json
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\bin\Debug\net7.0-windows\TOP LANCHESSSSS.dll
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\bin\Debug\net7.0-windows\TOP LANCHESSSSS.pdb
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.csproj.AssemblyReference.cache
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP_LANCHESSSSS.Form1.resources
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.csproj.GenerateResource.cache
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.AssemblyInfoInputs.cache
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.AssemblyInfo.cs
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.csproj.CoreCompileInputs.cache
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.dll
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\refint\TOP LANCHESSSSS.dll
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.pdb
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\TOP LANCHESSSSS.genruntimeconfig.cache
+C:\Fabricio\TOP LANCHESSSSS\TOP LANCHESSSSS\obj\Debug\net7.0-windows\ref\TOP LANCHESSSSS.dll
